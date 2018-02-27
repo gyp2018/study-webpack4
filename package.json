@@ -1,0 +1,11 @@
+{
+  "name": "study-webpack4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gyp2018/study-webpack4.git",
+  "author": "youngphil <phil@petcity.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.0.1"
+  }
+}
